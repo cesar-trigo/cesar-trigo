@@ -1,11 +1,9 @@
-### Hola soy Cesar Trigo
+  <h1 align="center"> Hola 👋, bienvenido a mi perfil </h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 😄 Pronouns: ... 
+  <h2 align="center"> Full-Stack MERN developer & Mobile Apps</h2>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cesar-trigo&count_private=true&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
-![](https://komarev.com/ghpvc/?username=cesar-trigo&style=flat-square)
+
 
 <h3 align="left">Idiomas y herramientas :</h3>
 
@@ -24,8 +22,15 @@
 ![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
+<h3 align="left">Conectate conmigo :</h3>
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cesar-trigo-30745a255/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cesar.luis-trigo@hotmail.com)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=cesar-trigo&theme=react)](https://git.io/streak-stats)
 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+
