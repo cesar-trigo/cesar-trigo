@@ -30,7 +30,7 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cesar-trigo-30745a255/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cesar.luis-trigo@hotmail.com)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=cesar-trigo&theme=react)](https://git.io/streak-stats)
+
 
 
 
