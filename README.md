@@ -2,7 +2,6 @@
 
   <h2 align="center"> Full-Stack MERN developer & Mobile Apps</h2>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cesar-trigo&count_private=true&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <h3 align="left">Idiomas y herramientas :</h3>
