@@ -2,7 +2,7 @@
 
   <h2 align="center"> Full-Stack MERN developer & Mobile Apps</h2>
 
-- Actualmente estoy desarrollandome en: Full Stack MERN.
+
 - Busco colaborar en proyectos que me ayuden a seguir aprendiendo y poniendo en práctica mis conocimientos.
 
 Lenguajes :
