@@ -1,6 +1,3 @@
-  <h1 align="center">
-    Bienvenido</h1>
-
   <h2 align="center"> Full-Stack MERN developer & Mobile Apps</h2>
 
 
