@@ -1,7 +1,7 @@
   <h2 align="center"> Full-Stack MERN developer & Mobile Apps</h2>
 
 
-- Busco colaborar en proyectos que me ayuden a seguir aprendiendo y poniendo en práctica mis conocimientos.
+- Busco colaborar en proyectos y seguir aprendiendo asi mismo poniendo en práctica mis conocimientos.
 
 Lenguajes :
 
