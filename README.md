@@ -53,24 +53,10 @@
   </a>
 </p>
 
-- Cloud Servers
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=firebase" />
-  </a>
-</p>
-
-- Hosting
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vercel,netlify" />
-  </a>
-</p>
-
 - Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,postman,linux,mocha" />
+    <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,postman,linux,firebase,vercel,netlify" />
   </a>
 </p>
 
