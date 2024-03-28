@@ -1,7 +1,15 @@
-  <h2 align="center"> Full-Stack MERN developer & Mobile Apps</h2>
+
+<div>
+  <h4><em>👋🏻​ Hola Soy Cesar Trigo.</em></h4>
+  <h4><em>       --Desarrollador Full Stack MERN</em></h4>
+</div>
+
+*Entusiasta de la programación y su constante evolución, disfruto explorando nuevas tecnologías y expandiendo mi conocimiento. Me motiva aprender cosas nuevas y mejorar constantemente, disfrutando del proceso de desarrollo.*
 
 
-- Busco colaborar en proyectos y seguir aprendiendo asi mismo poniendo en práctica mis conocimientos.
+<img align="center" src="https://i.pinimg.com/originals/98/33/5f/98335fcd764b32cae3780b1e1d5d39b4.gif" width="40%" style="display:inline;">
+
+
 
 Lenguajes :
 
