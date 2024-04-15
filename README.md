@@ -1,6 +1,6 @@
 
 <div>
-  <h3><em>👋🏻​ Hola Soy Cesar Trigo.</em></h3>
+  <h3><em>👋🏻​ Hola Soy Cesar Trigo</em></h3>
   <h4><em>       --Desarrollador Full Stack MERN</em></h4>
 </div>
 
@@ -13,7 +13,7 @@
 
 - 🌱 Actualmente estoy aprendiendo **Python, PHP**
   
-- 📫 Como llegar a mi **cesar.luis-trigo@hotmail.com**
+- 📫 Mi correo **cesar.luis-trigo@hotmail.com**
 
 <br>
 <h3 align="left">Conectate conmigo:</h3>
