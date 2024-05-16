@@ -1,6 +1,6 @@
 
 <div>
-  <h3><em>👋🏻​ Hola Soy Cesar Trigo</em></h3>
+  <h3><em>Hola Soy Cesar Trigo</em></h3>
   <h4><em>       --Desarrollador Full Stack MERN</em></h4>
 </div>
 
