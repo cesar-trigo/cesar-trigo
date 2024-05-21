@@ -1,7 +1,7 @@
 
 <div>
   <h3><em>Hola Soy Cesar Trigo</em></h3>
-  <h4><em>       --Desarrollador Full Stack MERN</em></h4>
+  <h4><em>       Desarrollador Full Stack MERN</em></h4>
 </div>
 
 *Entusiasta de la programación y su constante evolución, disfruto explorando nuevas tecnologías y expandiendo mi conocimiento. Me motiva aprender cosas nuevas y mejorar constantemente, disfrutando del proceso de desarrollo.*
