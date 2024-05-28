@@ -16,12 +16,6 @@
 - 📫 Mi correo **cesar.luis-trigo@hotmail.com**
 
 <br>
-<h3 align="left">Conectate conmigo:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/cesar-trigo-30745a255/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="supunnanayakkara" height="30" width="40" /></a>
-<a href="https://discordapp.com/users/618558070787932161" target="blank"><img align="center" src="https://img.icons8.com/?size=512&id=30998&format=png" alt="supunnanayakkara" width="40" /></a>
-</p>
-<br>
 
 <h3 align="left">Skills:</h3>
 
