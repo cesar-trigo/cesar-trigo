@@ -11,7 +11,7 @@
 
 <br>
 
--  Actualmente estoy aprendiendo **Python, PHP**
+-  Actualmente estoy aprendiendo **Python**
   
 - 📫 Mi correo **cesar.luis-trigo@hotmail.com**
 
