@@ -27,7 +27,6 @@ Git · GitHub · Postman · Agile / Scrum
 ---
 
 ## 📂 Mis proyectos destacados
-*(Podemos agregar links si querés ordenar tus repositorios: tu ecommerce, tu app de videojuegos, tu gestión de hoteles, etc.)*  
 - 🛒 **E-commerce MERN** – Catálogo, carrito, compras, autenticación  
 - 🎮 **E-commerce de videojuegos** – App web + mobile, roles admin/cliente  
 - 🏨 **App de gestión de hoteles / itinerarios / shows** – CRUD completo + login + valoraciones  
@@ -39,10 +38,6 @@ Git · GitHub · Postman · Agile / Scrum
 - ✉️ **Email:** cesar.luis-trigo@hotmail.com  
 
 ---
-
-<div align="center">
-  <img src="https://i.pinimg.com/originals/70/b6/34/70b634d36f50f5fb82d36c0c9f82fd29.gif" width="40%">
-</div>
 
 <h3 align="left">Skills:</h3>
 
