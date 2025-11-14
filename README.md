@@ -1,20 +1,48 @@
 
-<div>
-  <h3><em>Hola soy Cesar Trigo</em></h3>
-  <h4><em>       Desarrollador Full Stack MERN</em></h4>
+<div align="center">
+  <h1>👋 ¡Hola! Soy Cesar Trigo</h1>
+  <h3>Desarrollador Full Stack con enfoque en Backend (Node.js / Express / MongoDB)</h3>
 </div>
 
-*Entusiasta de la programación y su constante evolución, disfruto explorando nuevas tecnologías y expandiendo mi conocimiento. Me motiva aprender cosas nuevas y mejorar constantemente, disfrutando del proceso de desarrollo.*
+---
 
+Soy un desarrollador orientado al backend, apasionado por crear soluciones eficientes y escalables.  
+Disfruto aprender nuevas tecnologías, mejorar mis habilidades constantemente y trabajar en proyectos que representen un desafío real.
 
-<img align="center" src="https://i.pinimg.com/originals/70/b6/34/70b634d36f50f5fb82d36c0c9f82fd29.gif" width="40%" style="display:inline;">
+Me formé en el Bootcamp de **MindHub LA**, donde completé más de **900 horas de práctica intensiva** trabajando con el stack MERN y aplicando metodologías **Ágiles / Scrum**.
 
-<br>
+---
 
-  
-- 📫 Mi correo **cesar.luis-trigo@hotmail.com**
+## 🚀 Tecnologías y herramientas
 
-<br>
+**Backend:**  
+Node.js · Express · MongoDB · Mongoose · JWT  
+
+**Frontend:**  
+React · React Native · Redux · JavaScript  
+
+**Otras herramientas:**  
+Git · GitHub · Postman · Agile / Scrum
+
+---
+
+## 📂 Mis proyectos destacados
+*(Podemos agregar links si querés ordenar tus repositorios: tu ecommerce, tu app de videojuegos, tu gestión de hoteles, etc.)*  
+- 🛒 **E-commerce MERN** – Catálogo, carrito, compras, autenticación  
+- 🎮 **E-commerce de videojuegos** – App web + mobile, roles admin/cliente  
+- 🏨 **App de gestión de hoteles / itinerarios / shows** – CRUD completo + login + valoraciones  
+
+---
+
+## 📫 Contacto
+
+- ✉️ **Email:** cesar.luis-trigo@hotmail.com  
+
+---
+
+<div align="center">
+  <img src="https://i.pinimg.com/originals/70/b6/34/70b634d36f50f5fb82d36c0c9f82fd29.gif" width="40%">
+</div>
 
 <h3 align="left">Skills:</h3>
 
