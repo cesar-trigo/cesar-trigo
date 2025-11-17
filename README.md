@@ -1,6 +1,6 @@
 
 <div align="center">
-  <h1>👋 ¡Hola! Soy Cesar Trigo</h1>
+  <h1>¡Hola! Soy Cesar Trigo</h1>
   <h3>Desarrollador Full Stack con enfoque en Backend (Node.js / Express / MongoDB)</h3>
 </div>
 
