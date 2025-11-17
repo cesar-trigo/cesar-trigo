@@ -19,7 +19,7 @@ Me formé en el Bootcamp de **MindHub LA**, donde completé más de **900 horas 
 Node.js · Express · MongoDB · Mongoose · JWT  
 
 **Frontend:**  
-React · React Native · Redux · JavaScript  
+React · Redux · JavaScript  
 
 **Otras herramientas:**  
 Git · GitHub · Postman · Agile / Scrum
